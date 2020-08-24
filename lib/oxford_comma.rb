@@ -3,7 +3,7 @@ def oxford_comma(array)
 end
 
 "kiwi,durian".join(and)
- 
+
 
  end
 end
